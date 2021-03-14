@@ -11,3 +11,30 @@ When I watched the video below about the release of Microsoft's new Hololens 2, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f0RTL_X7r_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Thanks to h.lab at Case Western Reserve University, our team is getting a chance to explore the Hololens and its participation in the emerging field of mixed reality. We will have much to say about Hololens as a participant in mixed reality, but here, I simply want to share some of my initial impressions of the Hololens experience.
+
+## Materialities
+
+* head unit suprisingly comfortable. very happy to have no weight resting on bridge of nose
+* difficult to resist a consistent move of the gaze upward
+* graphics lacking at best
+* Lateral movement not well synched with displays
+
+
+## Extension 
+
+* Extending vision with cameras 
+* extending touch in some ways - long reach
+* reproducing basic interfaces like mouse and keyboard - is this a limitation of imagination or more about working with user dispositions?
+
+## Mixed?
+
+* on the one hand, the headset DOES allow me to use my hands/fingers as a mouse, so in a way this is mixing my physical materiality with the 3d digital objects in the view
+* ? could we call the view of the lens as an horizon?
+* Yet, when playing with 3d holograms, they did NOT interact with the physical world around me. e.g. elephant on pogo stick does not notice top of my daughters head
+* Feels more like overlays of screens, hearkening back to old notions of mixed reality, than it does to a robust entanglement of material embodiments. 
+
+## Allienation?
+
+* insular view of world - nobody else sees what I see, where is interactivity?
+* does the digital overlay/mixedness allienate me from myself or perhaps from the patient on the operating table?
