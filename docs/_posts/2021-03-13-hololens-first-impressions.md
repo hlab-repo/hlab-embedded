@@ -32,13 +32,6 @@ A few other brief notes about the particular materialities of the lens. The soun
 
 This may have to do with how I calibrated the lens, but the depth of touch to interact with the display seems a bit off. I always have the sensation of pushing through the surface of the display with my finger rather than simply contacting the surface. Perhaps this is by design, to remind users that these surfaces will not push back on us like the glass of my ipad or the plastic of my keyboard.
 
-## Extension 
-
-My favorite feature of the lens so far is the extended touch tool. talk about reaching for distant ibjects and then washing with digital overlay. 
-* Extending vision with cameras 
-* extending touch in some ways - long reach
-* reproducing basic interfaces like mouse and keyboard - is this a limitation of imagination or more about working with user dispositions?
-
 ## Mixed?
 
 * on the one hand, the headset DOES allow me to use my hands/fingers as a mouse, so in a way this is mixing my physical materiality with the 3d digital objects in the view
