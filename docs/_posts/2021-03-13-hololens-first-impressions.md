@@ -31,15 +31,3 @@ The tuning of this menu snapping to field of view needs some work though. Latera
 A few other brief notes about the particular materialities of the lens. The sound is rather nice in tone and quality for ambient speakers, but it is strange that others can hear these sounds without being able to see or participate in the views I see. 
 
 This may have to do with how I calibrated the lens, but the depth of touch to interact with the display seems a bit off. I always have the sensation of pushing through the surface of the display with my finger rather than simply contacting the surface. Perhaps this is by design, to remind users that these surfaces will not push back on us like the glass of my ipad or the plastic of my keyboard.
-
-## Mixed?
-
-* on the one hand, the headset DOES allow me to use my hands/fingers as a mouse, so in a way this is mixing my physical materiality with the 3d digital objects in the view
-* ? could we call the view of the lens as an horizon?
-* Yet, when playing with 3d holograms, they did NOT interact with the physical world around me. e.g. elephant on pogo stick does not notice top of my daughters head
-* Feels more like overlays of screens, hearkening back to old notions of mixed reality, than it does to a robust entanglement of material embodiments. 
-
-## Allienation?
-
-* insular view of world - nobody else sees what I see, where is interactivity?
-* does the digital overlay/mixedness allienate me from myself or perhaps from the patient on the operating table?
