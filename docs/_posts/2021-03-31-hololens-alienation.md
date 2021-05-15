@@ -16,9 +16,7 @@ author: Michael Hemenway
 
 My encounters of alienation in Simondon's _modes of existence_ :
 
-It surprised me when I did a search for "alienat-" in this key work by Simondon, it doesn't appear until the conclusion. Yet, this is where the notion of the _transindividual_ is introduced, which makes good sense then why alienation might emerge in the conversation here. 
-
-This suggestion of the _transindividual_ is located in a conversation about work and the distinction between employment/work and invention. At the risk of oversimplifying, this part of Simondon's discussion sounds to me a bit like Drucker's call to humanities scholars to help us move interface design from simply considering "users" as consumers to reintegrating a complex and coconstructed notion of subject into our design. A consisten refrain in this concluding section is pushing the distinction between an object as simply useful and its potential to be technical (which is not reducible to tool or use). The move from utensil to technical object demands a relationship, which is _transindividuality_ (253).
+Simondon elaborates on alienation in his discussion of the _transindividual_. This suggestion of the _transindividual_ is located in a conversation about work and the distinction between employment/work and invention. At the risk of oversimplifying, this part of Simondon's discussion sounds to me a bit like Drucker's call to humanities scholars to help us move interface design from simply considering "users" as consumers to reintegrating a complex and coconstructed notion of subject into our design. A consisten refrain in this concluding section is pushing the distinction between an object as simply useful and its potential to be technical (which is not reducible to tool or use). The move from utensil to technical object demands a relationship, which is _transindividuality_ (253).
 
 > This section makes me wonder what the intersections might be between transindividuality and multiplicity in Bergson. I also wonder what the connections might be between Simondon's resistence of the reduction to work and discussions of work in Levinas _Totality and Infinity_?
 
