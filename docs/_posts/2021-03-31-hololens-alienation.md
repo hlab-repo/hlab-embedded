@@ -16,6 +16,10 @@ author: Michael Hemenway
 
 My encounters of alienation in Simondon's _modes of existence_ :
 
+Alienation looms large in Simondon's _On the Mode of Existence of Technical Objects_. Even his short summary of the work mentions alienation several times. From this short summary, we see that Simondon hopes to push beyond economic and psychological framings of human alienation to explore the alienation enacted in technology. Moving beyond an instrumental notion of technical objects as simply tools for use or consumption, Simondon begs philosophy to reimagine a relationship between humans and technical objects that could alleviate alienation in both. 
+
+Straight away in his introduction, Simondon attacks the binary between human (culture) and machine (technics) and argues that this binary, rooted in a fear of the foreign, is actually the root of alienation (15-16).
+
 Simondon elaborates on alienation in his discussion of the _transindividual_. This suggestion of the _transindividual_ is located in a conversation about work and the distinction between employment/work and invention. At the risk of oversimplifying, this part of Simondon's discussion sounds to me a bit like Drucker's call to humanities scholars to help us move interface design from simply considering "users" as consumers to reintegrating a complex and coconstructed notion of subject into our design. A consisten refrain in this concluding section is pushing the distinction between an object as simply useful and its potential to be technical (which is not reducible to tool or use). The move from utensil to technical object demands a relationship, which is _transindividuality_ (253).
 
 > This section makes me wonder what the intersections might be between transindividuality and multiplicity in Bergson. I also wonder what the connections might be between Simondon's resistence of the reduction to work and discussions of work in Levinas _Totality and Infinity_?
