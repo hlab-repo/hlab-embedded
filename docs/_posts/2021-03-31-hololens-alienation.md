@@ -1,18 +1,27 @@
 ---
 layout: post
-title: "Hololens First Impressions"
+title: "Affording Alienation?"
 date: 2021-03-13 17:58:00 -0000
 categories: hololens mixed-reality
 header-image: mph-hololens.jpeg
-author: Michael Hemenway
+author: h.lab team
 ---
 
-## Allienation?
+## Alienation and the HoloLens
 
-* insular view of world - nobody else sees what I see, where is interactivity?
-* does the digital overlay/mixedness allienate me from myself or perhaps from the patient on the operating table?
+One of the questions that often emerges around humans relating with technology is whether a particular technology encourages an unwanted distance from the material world, from social engagement, from difference, or from oneself.
 
-## Simondon on alienation
+In particular, with the HoloLens, we have wondered if the focus on efficient access to layers of data provided in a largely isolated and individualistic visual field could create possible tendencies toward alienation from other people (I see a mixed world that I can not share with anyone else), from the physical materiality of the objects entangled in the view (a hologram of a heart located above a patient could distance the lens wearer from attention to the body on the operating table), or from self (I use the lens without active participation in challenging its possibilities and limits). 
+
+With the application of HoloLens technologies in domains such as education and healthcare and military, these questions of alienation become rather important. In our research, we have found an important connection between efficiency based or predominantly instrumental relationships with technology and the tendency toward these forms of alienation. In our embedded h.lab model, we would bring backward design thinking to bear on the selection of and engagement with technologies for a project to foreground the guiding goals and values of a project and then to evaluate the technological relationships with respect to these goals and values. 
+
+> Notice the language of "engagement with technology" above. We are actively resisting reductive instrumental notions of our relationship with technology through avoiding langauge of "use" or "tools" whenever possible. 
+
+For example, getting clarity on the distinction between training and education and on the different goals of these activities can provide excellent guidelines for how researchers and participants can more actively and intentionally engage with the technologies that are a part of the project's ensemble. 
+
+Below, we share some reflections on our encounters with alienation in our research.
+
+## Simondon on Alienation
 
 My encounters of alienation in Simondon's _modes of existence_ :
 
