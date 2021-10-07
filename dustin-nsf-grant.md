@@ -1,0 +1,5 @@
+- Zoom call for NSF grant 10/7/21
+- meeting will be recorded
+- meet with Eileen in Denver on Oct 22nd?
+- sounds like we will move forward with this NFS proposal for small project that can help test our larger ideas about modeles for energy that connects humans in an environment that involves tech
+- Dustin will send around a simple schematic of a possible concrete way forward
